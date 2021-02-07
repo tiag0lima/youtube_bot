@@ -8,7 +8,7 @@ Item {
 
 
 	function loadUrl(idd, url) {
-		//listview.contentItem.children[idd].setUrl(url)
+		listview.contentItem.children[idd].setUrl(url)
 	}
 
 	function getUrl(idd) {
@@ -35,7 +35,6 @@ Item {
 		width: parent.width
 		height: parent.height-150
 		*/
-		z: -1
 		anchors.fill: parent
 	
 
