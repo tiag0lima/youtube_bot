@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+
+<RCC>
+	<qresource prefix="/">
+		<file alias="main.qml">qml/main.qml</file>
+		<file alias="WView.qml">qml/WView.qml</file>
+		<file alias="CustomButton.qml">qml/CustomButton.qml</file>
+		<file alias="CustomMenu.qml">qml/CustomMenu.qml</file>
+	</qresource>
+</RCC>
